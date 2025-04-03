@@ -4,6 +4,7 @@ Welcome to the official repository for the Dynamic Batch Size Adjuster (DBSA) al
 **Repository Overview**
 The code is structured under the DBSA Codes directory, split into two main datasets: CIFAR-10 and MNIST. Each dataset folder contains subfolders for static and DBSA implementations across three model architectures: CNN, ResNet, and RNN. Below is the folder structure:
 
+
 DBSA Codes/
 ├── CIFAR-10/
 │   ├── Static/
